@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeasve00unkngoog_0010.png"; bbox 0 0 2404 4160; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 62 411 937 643">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 28 411 937 704">
+     <span class='ocr_line' id='line_1_1' title="bbox 62 411 937 643; baseline 0.008 -9.738"><span class='ocrx_word' id='word_1_1' title='bbox 62 411 937 643; x_wconf 69' lang='lat' dir='ltr'><strong>PHARMAGOPOEA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 235 935 768 1116">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 235 908 768 1116">
+     <span class='ocr_line' id='line_1_2' title="bbox 235 935 768 1116; baseline 0.004 -64"><span class='ocrx_word' id='word_1_2' title='bbox 235 935 768 1116; x_wconf 73' lang='lat' dir='ltr'><strong>stcch</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 395 1849 602 2214">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 271 1675 663 2347">
+     <span class='ocr_line' id='line_1_3' title="bbox 395 1849 602 2214; baseline 0.005 -67.367"><span class='ocrx_word' id='word_1_3' title='bbox 395 1849 602 2214; x_wconf 55' lang='lat' dir='ltr'><strong>&lt;Q</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 302 3163 689 3300">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 302 3163 689 3300">
+     <span class='ocr_line' id='line_1_4' title="bbox 302 3163 689 3300; baseline 0.003 -59"><span class='ocrx_word' id='word_1_4' title='bbox 302 3163 689 3300; x_wconf 64' lang='grc' dir='ltr'>ΜΕυιᾳιΑΝι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 72 3402 935 3614">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 72 3402 935 3614">
+     <span class='ocr_line' id='line_1_5' title="bbox 72 3402 935 3538; baseline 0.008 -51"><span class='ocrx_word' id='word_1_5' title='bbox 72 3402 222 3492; x_wconf 59' lang='lat' dir='ltr'><strong>&amp;cudebat</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 233 3435 346 3492; x_wconf 72' lang='lat' dir='ltr'><strong>Societas</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 358 3435 472 3538; x_wconf 43' lang='lat' dir='ltr'><strong>Typog?</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 485 3437 760 3520; x_wconf 18' lang='lat' dir='ltr'><strong>Classicorumultuliae</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 768 3438 935 3511; x_wconf 61' lang='lat' dir='ltr'><strong>Scriptorum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 350 3544 649 3614; baseline 0 -16"><span class='ocrx_word' id='word_1_10' title='bbox 350 3544 499 3614; x_wconf 74' lang='lat' dir='ltr'><em>Sumptibus</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 517 3545 649 3600; x_wconf 72' lang='lat' dir='ltr'><strong>Ediwris.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1206 4160">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1206 4160">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1206 4160; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1206 4160; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
